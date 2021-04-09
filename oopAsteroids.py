@@ -93,7 +93,7 @@ class Bullet(GameObject):
 
 
 class StarShip(GameObject):
-    MANEUVERABILITY = 3
+    MANEUVERABILITY = 1
     FORCE = 0.1
     SPEED_LIMIT = 3
     SPRITES = {"normal": "star_ship.v2",
