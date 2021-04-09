@@ -143,7 +143,7 @@ class Asteroids:
     MAX_ASTEROIDS = 15
     MUSIC = "music/tota_pop.ogg"
     WINDOW_TITLE = "Albert[A]steroids"
-    BACKGROUND = "class_diagram"
+    BACKGROUND = "background"
     VICTORY_TEXT = "Victory!!!!!!!!!"
     GAME_OVER_TEXT = "Game Over"
 
