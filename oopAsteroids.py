@@ -77,7 +77,7 @@ class Asteroid(GameObject):
 
 
 class Bullet(GameObject):
-    BULLET_SPEED = 6
+    BULLET_SPEED = 4.5
 
     def __init__(self, star_ship):
         super().__init__(star_ship.screen_size,
